@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer with AI</b> • Founder of <b>Codev AI</b><br/>
-  Second-year ICS student at Government Graduate College Sahiwal, Pakistan 🇵🇰
+  ICS student at Government Graduate College Sahiwal, Pakistan 🇵🇰
 </p>
 
 <p align="center">
